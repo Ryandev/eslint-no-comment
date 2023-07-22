@@ -1,5 +1,5 @@
 const { RuleTester } = require('eslint');
-const rule = require('../no-comment-block');
+const rule = require('../../../lib/rules/no-comment-block');
 
 const ruleTester = new RuleTester();
 
