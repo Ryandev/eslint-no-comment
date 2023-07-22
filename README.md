@@ -20,7 +20,7 @@ Adding `eslint-no-comment/no-comment-line` will flag this & provided eslint is e
 ### Notes
 • No auto fix functionality is provided & should not be. Based on the reasoning above, doing so would not help resolve the underlying issue
 
-• `eslint-noc-omment/no-comment-block` Added too, however unlikely to be used based on #reasoning above
+• `eslint-no-comment/no-comment-block` Added too, however unlikely to be used based on #reasoning above
 
 
 ### Development
