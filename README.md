@@ -43,12 +43,10 @@ Adding `eslint-no-comment/no-comment-line` will flag this & provided eslint is e
 
 <!-- begin auto-generated rules list -->
 
-🔧 Automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/user-guide/command-line-interface#--fix).
-
-| Name                                               | Description                      | 🔧 |
-| :------------------------------------------------- | :------------------------------- | :- |
-| [no-comment-block](docs/rules/no-comment-block.md) | Disable use of /* comment blocks | 🔧 |
-| [no-comment-line](docs/rules/no-comment-line.md)   | Disable use of // line comments  | 🔧 |
+| Name                                               | Description                      |
+| :------------------------------------------------- | :------------------------------- |
+| [no-comment-block](docs/rules/no-comment-block.md) | Disable use of /* comment blocks |
+| [no-comment-line](docs/rules/no-comment-line.md)   | Disable use of // line comments  |
 
 <!-- end auto-generated rules list -->
 

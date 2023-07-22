@@ -1,7 +1,5 @@
 # Disable use of /* comment blocks (`no-comment/no-comment-block`)
 
-🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
-
 <!-- end auto-generated rule header -->
 
 Disable block style comments & only allow // style comments

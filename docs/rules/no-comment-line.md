@@ -1,7 +1,5 @@
 # Disable use of // line comments (`no-comment/no-comment-line`)
 
-🔧 This rule is automatically fixable by the [`--fix` CLI option](https://eslint.org/docs/latest/user-guide/command-line-interface#--fix).
-
 <!-- end auto-generated rule header -->
 
 Disable use of double slash comments. Modern IDEs make it very convenient to disable a line of code which can often happen during debugging. If this is missed during code review it can result in commented out code in production. 
