@@ -34,6 +34,9 @@ All modern editors provide keyboard shortcuts to turn an existing line of code i
 
 Adding `eslint-no-comment/no-comment-line` will flag this & provided eslint is executed during the commit/deployment stage this will be flagged & addressed before delivery
 
+### Example
+Demo project showing rule in use: [demo-eslint-plugin-no-comment](https://github.com/Ryandev/demo-eslint-plugin-no-comment)
+
 
 ### Notes
 • No auto fix functionality is provided & should not be. Based on the reasoning above, doing so would not help resolve the underlying issue
