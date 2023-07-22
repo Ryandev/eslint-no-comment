@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-no-comment",
+  "name": "eslint-no-comment",
   "version": "0.1.0",
   "description": "Enforce comment types in code",
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ryandev/eslint-no-comments.git"
+    "url": "https://github.com/Ryandev/eslint-no-comment.git"
   },
   "author": "Ryan Powell",
   "main": "lib/index.js",
